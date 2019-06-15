@@ -2,6 +2,17 @@
 
 
  Custom-Multiple-Filters using Google Cloud NLP API & Boolean IR
+ 
+1.웹사이트에서 데이터를 크롤링하여 테스트 사이트 구현
+
+2. 각 키워드가 포함된 게시글 100개씩 추가 생성
+
+3. 멀티 필터링 기능 구현
+
+4. 멀티 필터링을 이용하여 전체 목록 중에서 원하는 글이 찾아지는지 확인( Boolean IR)
+
+5. 찾아진 글에서 미리 설정한 감정 값 범위에 따라 필터링이 되는지 확인( Sentiment filter)
+
 
 ![image](https://user-images.githubusercontent.com/38004643/59550078-7d86be80-8fa1-11e9-9f62-086fa26465cb.png)
 
