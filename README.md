@@ -3,6 +3,7 @@
 
  Custom-Multiple-Filters using Google Cloud NLP API & Boolean IR
  
+ 
 1.웹사이트에서 데이터를 크롤링하여 테스트 사이트 구현
 
 2. 각 키워드가 포함된 게시글 100개씩 추가 생성
