@@ -39,3 +39,5 @@
 
 99 : 근데 페시발은 진짜 - 페시발은 진짜 너무했다사회자랑 이거랑 묶여서 지금 밖에서 중앙대 수준 낮다고 욕 먹는다.
 
+![image](https://user-images.githubusercontent.com/38004643/59550137-567cbc80-8fa2-11e9-900e-7fce21b96cf6.png)
+
